@@ -1,0 +1,2 @@
+# Script consult hospital beds
+ 
