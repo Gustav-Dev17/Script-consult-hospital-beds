@@ -1,2 +1,2 @@
-# Script consult hospital beds
+# Script query hospital beds
  
